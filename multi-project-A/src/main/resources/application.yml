@@ -1,2 +1,2 @@
 server:
-  port: ${PORT:80}
+  port: ${PORT:60}
